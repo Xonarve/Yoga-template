@@ -480,6 +480,18 @@ body {
         url("img/team-bg-right.png") no-repeat 50% 0%;
     background-size: cover;
 }
+.report {
+    margin: 0px auto;
+    padding: 5px 7px;
+    max-width: 80%;
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid;
+}
+.report-item {
+    max-width: 40%;
+}
 
 
 /*FOOTER*/
