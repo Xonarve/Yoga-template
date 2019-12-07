@@ -170,4 +170,4 @@ Sim.initialize = function(that) {
 	}
 };
 
-new Sim();
+new Sim("first");
